@@ -1,0 +1,6 @@
+categories 
+skills
+positions/Designation
+countries
+state
+city
